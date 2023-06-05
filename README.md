@@ -9,3 +9,6 @@ Git e Github
 Figma
 💻 Projeto
  - O DevLinks é um agregador de links para usar como cartão de visitas online.
+
+📝 Licença
+- Esse projeto está sob a licença MIT.
